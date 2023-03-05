@@ -485,7 +485,7 @@ h1 h2 h3 h4 h5 h6{
 }
 
 .header {
-  padding: var(--headder-padding);
+  padding: var(--header-padding);
 }
 
 .header-logo {
@@ -616,7 +616,7 @@ ul.row{
   --color-dark-grey: #353535;
   --text-color: var(--color-primary);
   --font-family-base: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
-  --ont-family-title: Raleway, Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-family-title: Raleway, Helvetica Neue, Helvetica, Arial, sans-serif;
   --font-size-small: 1.2rem;
   --font-size-medium: 1.6rem;
   --font-size-large: 1.8rem;
@@ -654,7 +654,7 @@ ul.row{
   --button-hover-color: var(--color-white);
   --button-hover-text-decoration: none;
   --button-hover-background: var(--color-primary);
-  --headder-padding: 4rem 0 0;
+  --header-padding: 4rem 0 0;
   --header-logo-position: relative;
   --header-logo-link-display: inline-block;
   --header-logo-link-position: absolute;
